@@ -273,7 +273,7 @@ export default function Dashboard() {
           <span className="cp-accent">CSS</span> Code Prediction
           <span className="cp-cursor" />
         </h1>
-        <p className="cp-subtitle">Look at the output. Guess the CSS. Reveal to check.</p>
+        <p className="cp-subtitle">Look at the image given. Guess html & css code to develop a web page like this</p>
       </header>
 
       {!started ? (
